@@ -12,5 +12,5 @@ The native token of the network is called DNY. New DNY tokens are issued with ev
 
 The Dynasty blockchain is designed to ensure fast block confirmation times and a low cost of transactions. The average block interval on Dynasty is around 5 seconds, and it currently costs much less than $0.01 to get a transaction confirmed.
 
-In its present capacity, the Dynasty blockchain is capable of processing around 120 native token transfers and 60 BLC20 token transfers per second. The faster processing of native token transfers is due to the fact that they do not involve computations run on the network's virtual machine. 
+In its present capacity, the Dynasty blockchain is capable of processing around 120 native token transfers and 60 DNY20 token transfers per second. The faster processing of native token transfers is due to the fact that they do not involve computations run on the network's virtual machine. 
 

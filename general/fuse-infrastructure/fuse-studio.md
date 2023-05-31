@@ -17,9 +17,9 @@ The backend is composed of the following independent services
 Dynasty studio is designed to launch DeFi communities on the Dynasty network. The community contract binds together most of the services and features of the Studio. Among other things it consists of:
 
 * Entities List contract to store community members and their roles
-* Community BLC20 tokens on Dynasty network with transfer rules
-* BLC20 tokens on Ethereum. This is the token that the user issues as part of the community deployment process
-* [Multitoken bridge](https://github.com/fuseio/bridge-contracts) - to minimize friction and costs we extended the POA BLC20-BLC20 bridge contract to many-BLC20-to-many contract.
+* Community DNY20 tokens on Dynasty network with transfer rules
+* DNY20 tokens on Ethereum. This is the token that the user issues as part of the community deployment process
+* [Multitoken bridge](https://github.com/fuseio/bridge-contracts) - to minimize friction and costs we extended the POA DNY20-DNY20 bridge contract to many-DNY20-to-many contract.
 
 ## Plugins
 

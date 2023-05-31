@@ -1,4 +1,4 @@
-# Bridge DNY/BLC20 tokens
+# Bridge DNY/DNY20 tokens
 
 **Transferring DNY from ETH mainnet to Fusenet.**
 

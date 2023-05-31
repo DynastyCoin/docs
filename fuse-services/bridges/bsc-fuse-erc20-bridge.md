@@ -1,10 +1,10 @@
 ---
 description: >-
-  Dynasty <-> BSC BLC20 bridge is used to relay the BLC20 tokens between Dynasty and
+  Dynasty <-> BSC DNY20 bridge is used to relay the DNY20 tokens between Dynasty and
   Binance Smart Chain networks.
 ---
 
-# Multi BLC20: BSC ↔ Dynasty
+# Multi DNY20: BSC ↔ Dynasty
 
 ## Architecture Overview <a id="architecture-overview"></a>
 
@@ -32,16 +32,16 @@ Currently only WETH is supported for that bridge, more tokens are coming soon.�
 
 To send token from the BSC network:‌
 
-1. Approve the BLC20 tokens to be spent by the Foreign BLC20 bridge.
+1. Approve the DNY20 tokens to be spent by the Foreign DNY20 bridge.
 2. Call relayTokens function on the bridge contract
 
-The `relayTokens` method will lock the BLC20 tokens on the foreign bridge. Then an equal amount of the Dynasty BLC20 token will be sent from the home bridge contract.‌
+The `relayTokens` method will lock the DNY20 tokens on the foreign bridge. Then an equal amount of the Dynasty DNY20 token will be sent from the home bridge contract.‌
 
 To send tokens from Dynasty network‌
 
-1. Approve the BLC20 tokens to be spent by the Home BLC20 bridge.
+1. Approve the DNY20 tokens to be spent by the Home DNY20 bridge.
 2. Call `relayTokens` function on the bridge contract
 
-the `relayTokens` method will lock the bridged tokens on the home bridge. Then, an equal amount of the paired BLC20 token will be sent from the foreign bridge contract.[PreviousBSC ↔ Dynasty Native](https://app.gitbook.com/@fuse-1/s/fuse-dev-docs/~/drafts/-MdkekktVnuRGEokLu71/bridges/bridges/bsc-fuse-native/@merged)[  
+the `relayTokens` method will lock the bridged tokens on the home bridge. Then, an equal amount of the paired DNY20 token will be sent from the foreign bridge contract.[PreviousBSC ↔ Dynasty Native](https://app.gitbook.com/@fuse-1/s/fuse-dev-docs/~/drafts/-MdkekktVnuRGEokLu71/bridges/bridges/bsc-fuse-native/@merged)[  
 ](https://app.gitbook.com/@fuse-1/s/fuse-dev-docs/~/drafts/-MdkekktVnuRGEokLu71/bridges/bridges/eth-fuse-native-bridge/@merged)
 

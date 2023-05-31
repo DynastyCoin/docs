@@ -169,7 +169,7 @@ GET /entities/:communityAddress/:account
 
 ### Fetch token
 
-Tokens are compatible with the BLC20 standard, and they also can be burnable/mintable. Tokens are an important part of the community economy.
+Tokens are compatible with the DNY20 standard, and they also can be burnable/mintable. Tokens are an important part of the community economy.
 
 ```text
 GET /tokens/:address

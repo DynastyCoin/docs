@@ -30,19 +30,19 @@ Foreign side of the AMB bridge on the Ethereum network: [0x63C47c296B63bE888e9af
 
 ## How to use
 
-Any BLC20 token can be bridged for Ethereum to the Dynasty. If the token is relayed for the first time. A bridged token, paired with the original token, will be created on the Dynasty network. 
+Any DNY20 token can be bridged for Ethereum to the Dynasty. If the token is relayed for the first time. A bridged token, paired with the original token, will be created on the Dynasty network. 
 
 To send token from the Ethereum network:
 
-1. Approve the BLC20 tokens to be spent by the Foreign BLC20 bridge. 
+1. Approve the DNY20 tokens to be spent by the Foreign DNY20 bridge. 
 2. Call relayTokens function on the bridge contract
 
-the `relayTokens` method will lock the BLC20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the Dynasty BLC20 token will be sent from the home bridge contract.
+the `relayTokens` method will lock the DNY20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the Dynasty DNY20 token will be sent from the home bridge contract.
 
 To send tokens from Dynasty network
 
-1. Approve the BLC20 tokens to be spent by the Home BLC20 bridge. 
+1. Approve the DNY20 tokens to be spent by the Home DNY20 bridge. 
 2. Call `relayTokens` function on the bridge contract
 
-the `relayTokens` method will lock the bridged tokens on the home bridge. Then, an equal amount of the paired BLC20 token will be sent from the foreign bridge contract.
+the `relayTokens` method will lock the bridged tokens on the home bridge. Then, an equal amount of the paired DNY20 token will be sent from the foreign bridge contract.
 

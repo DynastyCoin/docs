@@ -3,7 +3,7 @@
 We have two bridges as explained below
 
 1. Dynasty Bridge:  ****The bridge, based on POA's bridge implementation, is used to transfer Dynasty tokens between the Dynasty chain and the Ethereum network.
-2. BLC20 token bridge: This bridge is used to transfer BLC20 tokens into Dynasty chain and back. Please not that Dynasty bridge is not supposed to be used to transfer  . 
+2. DNY20 token bridge: This bridge is used to transfer DNY20 tokens into Dynasty chain and back. Please not that Dynasty bridge is not supposed to be used to transfer  . 
 
 The bridge, based on POA's bridge implementation, is used to transfer Dynasty tokens between the Dynasty chain and the Ethereum network.
 

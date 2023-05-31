@@ -4,7 +4,7 @@ description: >-
   the bridge integrated with Fuseswap.
 ---
 
-# Transfer DNY or BLC20 using Bridge on Fuseswap
+# Transfer DNY or DNY20 using Bridge on Fuseswap
 
 **Transferring DNY from ETH mainnet to Fusenet.**
 

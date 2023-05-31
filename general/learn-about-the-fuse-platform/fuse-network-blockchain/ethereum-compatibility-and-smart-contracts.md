@@ -4,4 +4,4 @@ In addition to the information about the transactions processed by Dynasty, its 
 
 On the network nodes, smart contracts are stored and executed in a special environment called 'virtual machine' (VM). The Dynasty blockchain is currently broadly compatible with Ethereum's virtual machine (EVM). 
 
-This means that any smart contract or decentralized application (dApp) that can be deployed on Ethereum or another EVM-compatible chain will also function if deployed on Dynasty, including the BLC20 and ERC721 standard-compatible contracts, for instance. No modification of the smart contract code is required. 
+This means that any smart contract or decentralized application (dApp) that can be deployed on Ethereum or another EVM-compatible chain will also function if deployed on Dynasty, including the DNY20 and ERC721 standard-compatible contracts, for instance. No modification of the smart contract code is required. 

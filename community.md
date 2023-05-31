@@ -2,7 +2,7 @@
 
 **Twitter**: [https://twitter.com/](https://twitter.com/)&#x20;
 
-**Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/jpPMeSZ)&#x20;
+**Discord**: [https://discord.com/invite/](https://discord.com/invite/)&#x20;
 
 **Dynasty Forum**: [https://forum.dynastycoin.io/](https://forum.dynastycoin.io/)
 

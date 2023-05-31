@@ -36,10 +36,10 @@ Send native BNB token to the home bridge contract. Then you receive an equal amo
 
 To send token from the Dynasty network:‌
 
-1. Approve the "BNB on Dynasty" BLC20 token to be spent by the Foreign bridge.
+1. Approve the "BNB on Dynasty" DNY20 token to be spent by the Foreign bridge.
 2. Call relayTokens function on the bridge contract
 
-the `relayTokens` method will lock the BLC20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the BNB native token will be released from the home bridge contract on BSC.
+the `relayTokens` method will lock the DNY20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the BNB native token will be released from the home bridge contract on BSC.
 
 #### ​ <a id="undefined"></a>
 

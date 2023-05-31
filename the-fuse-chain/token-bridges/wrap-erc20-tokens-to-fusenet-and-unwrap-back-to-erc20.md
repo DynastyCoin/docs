@@ -1,8 +1,8 @@
 ---
-description: Steps to transfer/wrap BLC20 tokens from Ethereum to Fusenet
+description: Steps to transfer/wrap DNY20 tokens from Ethereum to Fusenet
 ---
 
-# Bridge for BLC20 tokens
+# Bridge for DNY20 tokens
 
 Please use this tutorial at your own risk as it involves using Etherscan UI/Dynasty explorer to relay the tokens.
 
@@ -14,7 +14,7 @@ Ethereum Mediator: **0xf301d525da003e874DF574BCdd309a6BF0535bb6**
 
 Fusenet Mediator : **0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03**
 
-In the below example we will consider USDT \(BLC20\) and learn how to wrap USDT to Fusenet and relay it back to BLC20.
+In the below example we will consider USDT \(DNY20\) and learn how to wrap USDT to Fusenet and relay it back to DNY20.
 
 **Step 1:** **Approving the USDT token contract**
 
@@ -54,7 +54,7 @@ Enter the below details on **“Relay tokens”** and click on **“Write”**
 
 Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your Dynasty address and have been swapped from Ethereum mainnet to Fusenet.
 
-Now let’s learn how to transfer the wrapped BLC20 tokens on Fusenet back to Ethereum mainnet.
+Now let’s learn how to transfer the wrapped DNY20 tokens on Fusenet back to Ethereum mainnet.
 
 **Step 1:** Approving the wrapped USDT token contract on Fusenet. 
 
@@ -94,7 +94,7 @@ Enter the below details on **“Relay tokens”** and click on **“Write”**
 
 ![](../../.gitbook/assets/6%20%285%29.png)
 
-After the transaction is confirmed on Dynasty network, the bridge oracle will relay your tx on Ethereum. No need to wait for additional confirmations as Dynasty is PoS network. After sometime you should be able to see the successful transfer of the token on your BLC20 address.
+After the transaction is confirmed on Dynasty network, the bridge oracle will relay your tx on Ethereum. No need to wait for additional confirmations as Dynasty is PoS network. After sometime you should be able to see the successful transfer of the token on your DNY20 address.
 
 Note: Please do enter the decimals very carefully. If the decimals are entered incorrectly then the transaction might fail with an error or might cost you very high gas.
 
