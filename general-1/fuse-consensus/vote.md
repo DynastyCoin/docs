@@ -4,7 +4,7 @@ Dynasty chain functionality can be change by voting on the contracts implementat
 
 ## Open a new ballot
 
-In order to open a new vote, a validator needs to call the \`newBallot\` function on the [voting contract](https://scan.dynastycoin.io/address/0x230687EadDFdF038587A51149bC721677066F313) with the following params:
+In order to open a new vote, a validator needs to call the \`newBallot\` function on the [voting contract](https://dnyscan.io/address/0x230687EadDFdF038587A51149bC721677066F313/transactions) with the following params:
 
 * startAfterNumberOfCycles - number of cycles (minimum 1) after which the ballot is open for voting
 * cyclesDuration - number of cycles (minimum 2) for the ballot to remain open for voting
@@ -40,9 +40,7 @@ Voting is done by calling the \`vote\` function, which receives two params:
 
 ![vote](../../.gitbook/assets/image.png)
 
-
-
-Some other useful functions on the [voting contract](https://scan.dynastycoin.io/address/0x230687EadDFdF038587A51149bC721677066F313) are:
+Some other useful functions on the [voting contract](https://dnyscan.io/address/0x230687EadDFdF038587A51149bC721677066F313/transactions) are:
 
 ## getQuorumState
 

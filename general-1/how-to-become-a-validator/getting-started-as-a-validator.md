@@ -13,4 +13,4 @@ To quickly become a validator, follow this steps:
 
 Read more at: [https://github.com/DynastyCoin/CoinNetwork/tree/master/node-example](https://github.com/DynastyCoin/CoinNetwork/tree/master/node-example)
 
-For live support, contact us on [Telegram](https://t.me/) or [Discord](https://discord.gg/). Good luck and happy validating!
+For live support, contact us on [Telegram](https://t.me/DYNASTY\_COIN) or [Discord](https://discord.gg/g9mnwzE7PJ). Good luck and happy validating!

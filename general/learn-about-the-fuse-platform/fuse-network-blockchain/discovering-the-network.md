@@ -1,12 +1,9 @@
 # Discovering the Network
 
+The following information will help you discover and connect to the Dynasty blockchain:
 
-
-The following information will help you discover and connect to the Dynasty blockchain:  &#x20;
-
-* Network name: **DNY**
-* ChanId: **537207**
-* Gas price: **1500000700 gwei**
-* RPC
-  * official RPC: [https://mainnet-rpc.dynastycoin.io/](https://mainnet-rpc.dynastycoin.io/)
-* Explorer: [http://scan.dynastycoin.io/](http://scan.dynastycoin.io/)
+* Network name: **Dynasty Mainnet**
+* ChanId: 147519
+* Symbol : DNY
+* RPC : [https://mainnet-rpc.dnyscan.io/](https://mainnet-rpc.dnyscan.io/)
+* Explorer: [https://dnyscan.io/](https://dnyscan.io/)

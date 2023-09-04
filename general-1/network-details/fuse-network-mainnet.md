@@ -2,16 +2,16 @@
 
 ### General Information
 
-| Block size | Block speed | Gas price          | Patchset | Native token | Network ID |
-| ---------- | ----------- | ------------------ | -------- | ------------ | ---------- |
-| 20,000,000 | 3 seconds   | 1500000700 GWei    |          | DNY          |      537207|
+| Block size | Block speed | Gas price       | Patchset | Native token | Network ID |
+| ---------- | ----------- | --------------- | -------- | ------------ | ---------- |
+| 20,000,000 | 3 seconds   | 1500000700 GWei |          | DNY          | 537207     |
 
-* Network name: **Dynasty**
-* ChanId: **537207**
+* Network name: **Dynasty Mainnet**
+* ChanId: 147519
 * Gas price: **1500000700 gwei**
 * RPC
-  * official RPC: [https://mainnet-rpc.dynastycoin.io/](https://mainnet-rpc.dynastycoin.io/)​
-* Explorer: [http://scan.dynastycoin.io/](http://scan.dynastycoin.io/)​
+  * official RPC: [https://mainnet-rpc.dnyscan.io/](https://mainnet-rpc.dnyscan.io/)​
+* Explorer: [https://dnyscan.io/](https://dnyscan.io/)​
 
 Read more at: [https://github.com/DynastyCoin/CoinNetwork/tree/master/node-example](https://github.com/DynastyCoin/CoinNetwork/tree/master/node-example).
 

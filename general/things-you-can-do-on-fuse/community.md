@@ -1,24 +1,21 @@
 # Community
 
-**Twitter**: [https://twitter.com/](https://twitter.com/)&#x20;
+**Twitter**: [https://twitter.com/DYNASTY\_COIN](https://twitter.com/DYNASTY\_COIN)
 
-**Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/jpPMeSZ)&#x20;
+**Discord**: [https://discord.gg/g9mnwzE7PJ](https://discord.gg/g9mnwzE7PJ)
 
-**Dynasty Forum**: [https://forum.dynastycoin.io/](https://forum.dynastycoin.io/)
+**Instagram**: [https://www.instagram.com/dynasty\_coin/](https://www.instagram.com/dynasty\_coin/)
+
+**Website :** [https://dynastycoin.io](https://dynastycoin.io)
+
+**Facebook** : [https://www.facebook.com/DYNASTY.COIN](https://www.facebook.com/DYNASTY.COIN)
+
+**Youtube :** [https://www.youtube.com/@DYNASTY\_COIN](https://www.youtube.com/@DYNASTY\_COIN)
+
+**LinkedIn** : [https://www.linkedin.com/in/dynastycoin](https://www.linkedin.com/in/dynastycoin)
 
 ### Public Telegram groups
 
-**Main chat**: [https://t.me/](https://t.me/)
+**Main chat**: [https://t.me/DYNASTY\_COIN](https://t.me/DYNASTY\_COIN)
 
-<!-- **Dynasty announcements group**: [https://t.me/FuseAnnouncements](https://t.me/FuseAnnouncements) -->
-
-<!-- **Dynasty Cash group**: [https://t.me/fusecash](https://t.me/fusecash) -->
-
-<!-- **TLChainSwap group**: [https://t.me/fuseswap](https://t.me/fuseswap) -->
-
-<!-- **Dynasty NFTs**: [https://t.me/fuseNFTs](https://t.me/fuseNFTs)&#x20; -->
-
-**Italian Dynasty Telegram community:** [https://t.me/](https://t.me/)
-
-**Indonesian Dynasty Telegram community:** [https://t.me/](https://t.me/)
-
+**Dynasty Channel :** [https://t.me/DYNASTY\_COIN\_Channel](https://t.me/DYNASTY\_COIN\_Channel)
